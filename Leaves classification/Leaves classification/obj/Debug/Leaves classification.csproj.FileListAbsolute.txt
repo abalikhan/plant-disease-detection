@@ -1,0 +1,22 @@
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\bin\Debug\Leaves classification.exe.config
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\bin\Debug\Properties\Settings.Designer.cs
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\bin\Debug\Properties\Settings.settings
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\bin\Debug\Leaves classification.exe
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\bin\Debug\Leaves classification.pdb
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\bin\Debug\IKVM.OpenJDK.Charsets.dll
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\bin\Debug\IKVM.OpenJDK.Core.dll
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\bin\Debug\IKVM.OpenJDK.Security.dll
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\bin\Debug\IKVM.OpenJDK.Text.dll
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\bin\Debug\IKVM.OpenJDK.Util.dll
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\bin\Debug\IKVM.OpenJDK.XML.API.dll
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\bin\Debug\IKVM.Runtime.dll
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\obj\Debug\Leaves classification.csprojResolveAssemblyReference.cache
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\obj\Debug\Leaves_classification.Form1.resources
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\obj\Debug\Leaves_classification.Properties.Resources.resources
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\obj\Debug\Leaves classification.csproj.GenerateResource.Cache
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\obj\Debug\Leaves classification.exe
+G:\Study Data\8 sem\FYP\leave_c#\Leaves classification\obj\Debug\Leaves classification.pdb
+G:\Study Data\1-8 sem\8 sem\FYP\leave_c#\Leaves classification\bin\Debug\Leaves classification.exe.config
+G:\Study Data\1-8 sem\8 sem\FYP\leave_c#\Leaves classification\obj\Debug\Leaves classification.exe
+G:\Study Data\1-8 sem\8 sem\FYP\leave_c#\Leaves classification\obj\Debug\Leaves classification.pdb
